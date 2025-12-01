@@ -1,4 +1,4 @@
-# ImpactPath / ESG-Hub - Technical Architecture
+# ESG-Hub - Technical Architecture
 
 ## System Architecture Diagram
 

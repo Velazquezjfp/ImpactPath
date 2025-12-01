@@ -1,8 +1,10 @@
-# ImpactPath / ESG-Hub
+# ESG-Hub
 
 **Open-Source ESG Coach for SMEs**
 
 > **Status: Planning & Conceptualization Stage**
+
+> **Note:** The repository is named `ImpactPath` (original working title). The project has been renamed to **ESG-Hub**.
 
 ## Problem Statement
 
@@ -12,7 +14,7 @@ Small and medium-sized enterprises (SMEs) face increasing pressure to demonstrat
 
 ## Solution
 
-ImpactPath/ESG-Hub is an AI-powered, self-hostable web platform that guides SMEs through ESG preparation via:
+ESG-Hub is an AI-powered, self-hostable web platform that guides SMEs through ESG preparation via:
 
 - **Dialog-based AI assistant** that explains requirements in plain language
 - **Structured question flows** covering environment, social, and governance topics
@@ -72,6 +74,6 @@ Open Source (license TBD)
 
 ## Team
 
-- **Pia Roy Chowdhury** - ESG Expert
+- **Mridula Roy Chowdhury** - ESG Expert
 - **Javier Velazquez** - Software Development
 - **Surja Bose** - Project Lead & Conception
